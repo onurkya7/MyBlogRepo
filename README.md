@@ -30,7 +30,7 @@ To clone the project to your local machine, follow these steps:
 1. Clone this repository to your computer:
 
     ```bash
-    git clone https://github.com/onurkya7/myblogrepo.git
+    git clone https://github.com/onurkya7/MyBlogRepo.git
     ```
 
 2. Navigate to the project directory:
