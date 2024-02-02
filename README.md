@@ -36,7 +36,7 @@ To clone the project to your local machine, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd myblogrepo
+    cd MyBlogRepo
     ```
 
 ## Usage
