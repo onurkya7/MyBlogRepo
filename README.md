@@ -45,8 +45,8 @@ After cloning the project, you can view Muhammed Onur Kaya's personal blog by op
 
 ## Contributing
 
-- If you find any issues with the project, you can report them on [GitHub Issues](https://github.com/onurkya7/personal-blog/issues).
-- If you'd like to contribute to the project, you can open a [Pull Request](https://github.com/onurkya7/personal-blog/pulls).
+- If you find any issues with the project, you can report them on [GitHub Issues](https://github.com/onurkya7/MyBlogRepo/issues).
+- If you'd like to contribute to the project, you can open a [Pull Request](https://github.com/onurkya7/MyBlogRepo/pulls).
 
 ## License
 
